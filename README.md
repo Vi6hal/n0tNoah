@@ -1,3 +1,5 @@
 - Hi,I’m @n0tNoah(Vishal P)
-- i can be reached at: [Linkedin/Vi6hal](https://www.linkedin.com/in/vi6hal)
+- Contact Info
+  - Linkedin: [Linkedin/Vi6hal](https://www.linkedin.com/in/vi6hal),
+  - Discord: [Discord/!Noah#8661](https://discordapp.com/users/!Noah#8661)
 - Please checkout my [django-cookiecutter-rest](https://github.com/n0tNoah/django-cookiecutter-rest)
