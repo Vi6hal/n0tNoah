@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @n0tNoah(Vishal P)
-- 💞️ I’m looking to contribute to any open-source python/django application
+- 💞️ I’m looking to contribute to any open-source python project
 - 📫 i can be reached at: [Linkedin/Vi6hal](https://www.linkedin.com/in/vi6hal)
